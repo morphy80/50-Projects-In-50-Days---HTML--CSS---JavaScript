@@ -2,3 +2,6 @@
 
 ## Instructors:
 **Brad Traversy & Florin Pop**
+
+### Section2: Day 1 - Expanding Cards
+
