@@ -3,5 +3,7 @@
 ## Instructors:
 **Brad Traversy & Florin Pop**
 
-#### Section2: Day 1 - Expanding Cards
+|  #  | Project                                                                                                                     | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [Expanding Cards](https://github.com/morphy80/50-Projects-In-50-Days---HTML--CSS---JavaScript/tree/main/section_2-Expanding_Cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 
