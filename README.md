@@ -2,7 +2,7 @@
 
 ## Instructors
 
-Brad Traversy & Florin Pop
+__Brad Traversy & Florin Pop__
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -14,3 +14,4 @@ Brad Traversy & Florin Pop
 | 06  | [Scroll Animation](https://github.com/morphy80/50-Projects-In-50-Days---HTML--CSS---JavaScript/tree/main/section_7_Scroll_Animation)                           | [Live Demo](https://50projects50days.com/projects/scroll-animation/)                                     |
 | 07  | [Split Landing Page](https://github.com/morphy80/50-Projects-In-50-Days---HTML--CSS---JavaScript/tree/main/section_8_Split_Landing_Page)                        | [Live Demo](https://50projects50days.com/projects/split-landing-page/)                                 |
 | 08  | [Form Wave](https://github.com/morphy80/50-Projects-In-50-Days---HTML--CSS---JavaScript/tree/main/section_9_Form_Wave_Animation)                        | [Live Demo](https://50projects50days.com/projects/form-wave/)                                                   |
+| 09  | [Sound Board](https://github.com/morphy80/50-Projects-In-50-Days---HTML--CSS---JavaScript/tree/main/section_10_Sound_Board)                                   | [Live Demo](https://50projects50days.com/projects/sound-board/)                      |
